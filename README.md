@@ -24,7 +24,7 @@ See also the list of [contributors](https://github.com/your/project/contributors
 The hardware project is licensed under the CERN Open Hardware Licence - see the [LICENSE.md](LICENSE.md) file for details
 
 
-The documentation file are licensed under a [Creative Commons Attribution 4.0 International
+The documentation files are licensed under a [Creative Commons Attribution 4.0 International
 License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
