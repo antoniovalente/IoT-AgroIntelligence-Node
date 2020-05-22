@@ -17,7 +17,7 @@ To view the files use Autodesk Eagle (project uses version 9.6.0)
 
 * **Antonio Valente** - *Initial work* - [Antonio Valente](https://github.com/antoniovalente/)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+<!---See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. --->
 
 ## License
 
