@@ -1,6 +1,6 @@
 # IoT AgroIntelligence LoRaWAN Node
 
-PCB files of a LoRaWAN node for agriculture use. The node uses a CubeCell module from Heltec.
+PCB files of a LoRaWAN node for agriculture use. The node uses a [CubeCell module from Heltec](https://heltec.org/project/htcc-ab01/).
 The node has four 12-bit ADC channels, one 18-bit ADC channel, one I2C port, and one SDI-12 port.
 It is also possible to connect a 3.6V LiPo battery and the node has an onboard solar energy management system, that can directly connect with a 5.5~7V solar panel.
 
@@ -8,7 +8,8 @@ It is also possible to connect a 3.6V LiPo battery and the node has an onboard s
 ### Prerequisites
 
 To view the files use Autodesk Eagle (project uses version 9.6.0) 
-[Autodesk Eagle] (https://www.autodesk.com/products/eagle/free-download) 
+
+[Autodesk Eagle](https://www.autodesk.com/products/eagle/free-download) 
 
 
 
