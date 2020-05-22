@@ -21,11 +21,11 @@ To view the files use Autodesk Eagle (project uses version 9.6.0)
 
 ## License
 
-The hardware project is licensed under the CERN Open Hardware Licence - see the [LICENSE.md](LICENSE.md) file for details
+The hardware project is licensed under the [CERN Open Hardware Licence](https://ohwr.org/cernohl) - see the [LICENSE.md](LICENSE.md) file for details.
 
 
 The documentation files are licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+License][cc-by] - see the [LICENSE-CC-BY.md](LICENSE.md) file for details
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
