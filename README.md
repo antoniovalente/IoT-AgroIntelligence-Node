@@ -7,7 +7,7 @@ It is also possible to connect a 3.6V LiPo battery and the node has an onboard s
 
 ![IoT Node PCB][iot_node_pcb]
 
-[iot_node_pcb]: https://github.com/antoniovalente/IoT-AgroIntelligence-Node/photos/IoT_AgroIntelligenceNode.jpg "IoT PCB Node"
+[iot_node_pcb]: https://github.com/antoniovalente/IoT-AgroIntelligence-Node/blob/master/photos/IoT_AgroIntelligenceNode.jpg "IoT PCB Node"
 
 
 ### Prerequisites
