@@ -5,7 +5,11 @@ The node has four 12-bit ADC channels, one 18-bit ADC channel, one I2C port, and
 It is also possible to connect a 3.6V LiPo battery and the node has an onboard solar energy management system, that can directly connect with a 5.5~7V solar panel.
 
 
-![test image size](/photo/IoT_AgroIntelligenceNode.jpg){:class="img-responsive"}
+![test image size](https://github.com/antoniovalente/IoT-AgroIntelligence-Node/photo/IoT_AgroIntelligenceNode.jpg){:class="img-responsive"}
+
+![IoT Node PCB][iot_node_pcb]
+
+[iot_node_pcb]: https://github.com/antoniovalente/IoT-AgroIntelligence-Node/photo/IoT_AgroIntelligenceNode.jpg "IoT PCB Node"
 
 
 ### Prerequisites
