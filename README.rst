@@ -10,6 +10,9 @@ can directly connect with a 5.5~7V solar panel.
 
 .. figure:: https://github.com/antoniovalente/IoT-AgroIntelligence-Node/blob/master/photos/IoT_AgroIntelligenceNode.jpg
    :alt: IoT Node
+   :width: 100%
+   :align: center
+
 
 
 IoT Node Prerequisites
