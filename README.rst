@@ -32,6 +32,10 @@ Authors
 .. raw:: html
 
    <!---See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. --->
+   
+Articles
+--------
+MDPI Electronics `"Low-Cost LoRaWAN Node for Agro-Intelligence IoT" <https://www.mdpi.com/741896>`__
 
 Licenses
 --------
