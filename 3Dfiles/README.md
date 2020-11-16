@@ -8,5 +8,5 @@ LID.stl file for 3D printing the LID for the BOX in BOX.stl.
 
 HOSE for sensors like BME680.
 
-BOX for Wisblock board with RAK1920 (with Mickroe SDI-12 board). The BOX has two holes: TOP for antenna (RS:125-1251) and botton for EN3P4MX connector (EN3 séries Dig-Key:SC263-ND).
+BOX_WisBlock.stl BOX for Wisblock board with RAK1920 (with Mickroe SDI-12 board). The BOX has two holes: TOP for antenna (RS:125-1251) and botton for EN3P4MX connector (EN3 séries Dig-Key:SC263-ND).
 
