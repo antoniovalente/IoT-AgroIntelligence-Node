@@ -10,5 +10,8 @@ HOSE_SENSOR_03.stl file for 3D printing the HOSE for sensors like BME680.
 
 BOX_WisBlock.stl file for 3D printing the BOX for Wisblock board with RAK1920 (with Mickroe SDI-12 board). The BOX has two holes: TOP for antenna (RS:125-1251) and botton for EN3P4MX connector (EN3 séries Dig-Key:SC263-ND). A 18650 lithium battery holder also fits in the box.
 
+HOSE_03.stl and HOSE_04.stl files for 3D printing the HOSES for a flexible hose to house ambient sensors (like BME680). The two files have different tolerances.
+
+
 
 
